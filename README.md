@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Boluwaji Adebayo 
 - 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently working on projects to build my portfolio 
 - 💞️ I’m looking to collaborate on data analysis projects; volunteer or otherwise 
 - 📫 You can reach me on Instagram (@adetoluwaji)
 - 😄 Pronouns: She/Her
